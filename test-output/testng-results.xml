@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-08-17T18:03:10 IST" name="Default suite" finished-at="2026-08-17T18:03:11 IST" duration-ms="1603">
+    <groups>
+    </groups>
+    <test started-at="2026-08-17T18:03:10 IST" name="Default test" finished-at="2026-08-17T18:03:11 IST" duration-ms="1603">
+      <class name="com.rideshare.Tests.LoginPage_Test">
+        <test-method signature="clickSignInButton()[pri:0, instance:com.rideshare.Tests.LoginPage_Test@cda4919]" started-at="2026-08-17T18:03:10 IST" name="clickSignInButton" finished-at="2026-08-17T18:03:10 IST" duration-ms="779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSignInButton -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.rideshare.Tests.LoginPage_Test@cda4919]" started-at="2026-08-17T18:03:10 IST" name="tearDown" finished-at="2026-08-17T18:03:10 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickSignInButton status=SUCCESS method=LoginPage_Test.clickSignInButton()[pri:0, instance:com.rideshare.Tests.LoginPage_Test@cda4919] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testEnteredEmail()[pri:0, instance:com.rideshare.Tests.LoginPage_Test@cda4919]" started-at="2026-08-17T18:03:10 IST" name="testEnteredEmail" finished-at="2026-08-17T18:03:11 IST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEnteredEmail -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.rideshare.Tests.LoginPage_Test@cda4919]" started-at="2026-08-17T18:03:11 IST" name="tearDown" finished-at="2026-08-17T18:03:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testEnteredEmail status=SUCCESS method=LoginPage_Test.testEnteredEmail()[pri:0, instance:com.rideshare.Tests.LoginPage_Test@cda4919] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testEnteredPassword()[pri:0, instance:com.rideshare.Tests.LoginPage_Test@cda4919]" started-at="2026-08-17T18:03:11 IST" name="testEnteredPassword" finished-at="2026-08-17T18:03:11 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEnteredPassword -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.rideshare.Tests.LoginPage_Test@cda4919]" started-at="2026-08-17T18:03:11 IST" name="tearDown" finished-at="2026-08-17T18:03:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testEnteredPassword status=SUCCESS method=LoginPage_Test.testEnteredPassword()[pri:0, instance:com.rideshare.Tests.LoginPage_Test@cda4919] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testSubmit()[pri:0, instance:com.rideshare.Tests.LoginPage_Test@cda4919]" started-at="2026-08-17T18:03:11 IST" name="testSubmit" finished-at="2026-08-17T18:03:11 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmit -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.rideshare.Tests.LoginPage_Test@cda4919]" started-at="2026-08-17T18:03:11 IST" name="tearDown" finished-at="2026-08-17T18:03:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSubmit status=SUCCESS method=LoginPage_Test.testSubmit()[pri:0, instance:com.rideshare.Tests.LoginPage_Test@cda4919] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.rideshare.Tests.LoginPage_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
