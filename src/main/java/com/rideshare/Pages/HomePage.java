@@ -4,6 +4,7 @@ public class HomePage {
 public static void main(String[] args) {
 	
 	System.out.println("Home page created for test Git");
+	System.out.println("need to check 2nd commit and push");
 }
 
 }
